@@ -1,0 +1,7 @@
+fastapi==0.85.0
+fastapi_users==10.1.5
+fastapi_utils==0.2.1
+ldap3==2.9.1
+pydantic==1.10.1
+SQLAlchemy==1.4.28
+uvicorn==0.18.3
